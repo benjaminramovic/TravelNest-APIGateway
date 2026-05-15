@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zMpY0Qdj3cn9LU26XJ1F3B05js5YaWm9Wz/DdH8HgEE=",
+  "Source": "TravelNest-APIGateway",
+  "BasePath": "_content/TravelNest-APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
