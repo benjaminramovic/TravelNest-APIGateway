@@ -32,3 +32,4 @@
 /Users/neuerbenutzer/RiderProjects/TravelNest/TravelNest-APIGateway/obj/Debug/net8.0/TravelNest-APIGateway.pdb
 /Users/neuerbenutzer/RiderProjects/TravelNest/TravelNest-APIGateway/obj/Debug/net8.0/TravelNest-APIGateway.genruntimeconfig.cache
 /Users/neuerbenutzer/RiderProjects/TravelNest/TravelNest-APIGateway/obj/Debug/net8.0/ref/TravelNest-APIGateway.dll
+/Users/neuerbenutzer/RiderProjects/TravelNest/TravelNest-APIGateway/obj/Debug/net8.0/TravelNest-APIGateway.sourcelink.json
