@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelNest-APIGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56f2b66befa8b1197cdef5f6f38b67526751ef1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db85d765966fc3ade3d303a20f6bd5f98e72447a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelNest-APIGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelNest-APIGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
